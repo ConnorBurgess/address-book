@@ -41,4 +41,6 @@ Contact.prototype.capitalizedFull = function() {
 
 let epicodusContacts =  new AddressBook(); 
 let andy = new Contact('andy', 'lawson', '411');
-console.log(andy)
+console.log(andy.fullName())
+epicodusContacts.addContact(andy);
+console.log(epicodusContacts)
