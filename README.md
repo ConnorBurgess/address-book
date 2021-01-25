@@ -1,12 +1,12 @@
 # Address Book
-#### Created By: Connor Burgess  
+#### Co-Created By: Connor Burgess  
 #### Co-Created By: Andrew Lawson
-#### *Co-Created By: 
+#### Co-Created By: Tien Nguyen
 
 * * *
 
 ## Description  
-Description
+Project utilizes constructors and prototypes to create an address book
 
 * * *
 
@@ -14,15 +14,11 @@ Description
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
-* JQuery
 
 * * *
 
 ## Setup instructions:  
-* Go to [Github Pages](Link) to see webpage
-#### Alt
-* Clone Repo (Link: )
+* Clone Repo (Link:https://github.com/ConnorBurgess/address-book.git )
 * Open index.html in browser
 
 * * *
@@ -33,8 +29,8 @@ Description
 * * *
 
 ## Addition comments:
-* Created on x/x/21  
-* Currently in development and unfinished (*as of x/x/21*)
+* Created on 01/25/21  
+* Currently in development and unfinished (*as of 01/25/21*)
 
 * * *
 
@@ -47,4 +43,5 @@ Licensed under [MIT license](https://mit-license.org/)
 
 ## Contact Information
 _Connor Burgess: [Email](connorburgesscodes@gmail.com)_
-Andrew Lawson: [Email](alawson89@gmail.com)
+_Andrew Lawson: [Email](alawson89@gmail.com)_
+_Tien Nguyen: [Email](tien96ng@github.com)_
